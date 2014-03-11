@@ -1,0 +1,13 @@
+Stack Modal
+Easily include a stack in a modal window.
+
+The stack modal block allows you to include a stack as a modal/popup overlay, linking to it with a standard text link or an image from the file manager.
+
+A great block for including items such as videos, policies, etc. Note, any block that requires a POST action would require quick a bit of modification to work in an overlay window, but most standard block types should work nicely.
+
+Features
+*Select any user-added stack to load in the modal window.
+*Uses Bootstrap version 2.0 to generate the modal window, includes only needed, customized bootstrap files to lower dependency and increase speed.  A theme that uses bootstrap is not required.
+*Easily customized through custom templates. Change the look of links, images and even the modal window.
+
+
